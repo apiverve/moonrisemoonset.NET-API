@@ -99,9 +99,9 @@ if(response.error != null) {
       "latitude": 37.7749,
       "longitude": -122.4194
     },
-    "phase": "Waxing Gibbous",
-    "moonrise": "2024-08-14T23:29:58.027Z",
-    "moonset": "2024-08-14T07:47:12.743Z",
+    "phase": "New",
+    "moonrise": "2024-09-01T12:13:18.435Z",
+    "moonset": "2024-09-01T01:59:35.567Z",
     "moonAlwaysUp": false,
     "moonAlwaysDown": false
   },
